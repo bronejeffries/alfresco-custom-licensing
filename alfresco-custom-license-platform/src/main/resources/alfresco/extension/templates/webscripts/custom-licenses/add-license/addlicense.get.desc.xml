@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>manage licenses</shortname>
+    <description>Allow admin to add new licenses</description>
+    <url>/addlicense</url>
+    <format default="html">extension</format>
+    <authentication>admin</authentication>
+    <transaction allow="readonly">required</transaction>
+</webscript>

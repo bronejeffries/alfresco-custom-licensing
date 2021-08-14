@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>SOFTWARE LICENSE NOT FOUND/NOT VALID</shortname>
+    <description>Indicates that no or invalid software license has been found</description>
+    <url>/invalid-software-license</url>
+    <format default="html">extension</format>
+    <authentication>user</authentication>
+</webscript>

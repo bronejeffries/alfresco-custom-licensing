@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>manage licenses</shortname>
+    <description>indicates no license found with user</description>
+    <url>/no-license-found</url>
+    <format default="html">extension</format>
+    <authentication>user</authentication>
+</webscript>

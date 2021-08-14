@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Update Person</shortname>
+    <description>Update the details of a person.</description>
+    <url>/api/custom/people/{userName}</url>
+    <format default="json">argument</format>
+    <authentication runas="admin">user</authentication>
+    <transaction>required</transaction>
+ </webscript>

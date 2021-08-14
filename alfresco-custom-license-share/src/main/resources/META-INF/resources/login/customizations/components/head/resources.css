@@ -1,0 +1,96 @@
+
+.form-fields.login .form-field > span.yui-button {
+    border-color: #23A74C !important;
+}
+.form-fields.login .form-field > span.yui-button > .first-child {
+    border-color: #23A74C !important;
+    background-color: #23A74C !important;
+}
+
+/* .theme-company-logo {
+    background: url("images/muklogo.png") no-repeat !important;
+    height: 80px !important;
+    width: 320px !important;
+    align-content: center !important;
+    margin-left: 35% !important;
+    align-self: center !important;
+} */
+
+.login-copy {
+   display: none !important;
+}
+
+.form-fields.login .form-field {
+   margin: 32px 0 !important;
+   padding-left: 10% !important;
+}
+
+.product-name{
+    color:#23A74C !important;
+    text-align: center !important;
+    align-content: center !important;
+}
+
+.product-community{
+    text-align: center !important;
+    align-content: center !important;
+}
+
+.alfresco-share .alfresco-header-Header {
+    /* background-color: #BA1F19 !important; */
+    color: #ffffff !important;
+    font-family: Open Sans, arial, helvetica, clean, sans-serif;
+    padding: 0;
+    width: auto;
+}
+
+.alfresco-share .alfresco-header-Header .alfresco-menus-AlfMenuBar .dijitMenuPassive .dijitMenuItemHover {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+ }
+
+ .alfresco-share .alf-header-menu-bar .dijitMenuItem {
+    color: #000000 !important;
+ }
+ 
+ /* Sets the highlight on popup menu items in the header bar ONLY. Note that we need to use "alf-header-menu-bar" and not
+    just "alf-header" because the popup is not a direct child of the node set with the "alf-header" class */
+ .alfresco-share .alf-header-menu-bar .alf-menu-group .dijitMenuPassive .dijitMenuItemHover, 
+ .alfresco-share .alf-header-menu-bar .alf-menu-group .dijitMenuItemSelected {
+    background-color: #ffffff !important;
+    color: #23A74C !important;
+ }
+ 
+ /* Sets the selection highlight colour on header menu items - more specific than class in AlfMenuBar */
+ .alfresco-share .alfresco-header-Header .dijitReset.dijitInline.dijitMenuItemLabel.dijitMenuItemSelected.dijitMenuItem {
+    background-color: #000000 !important;
+ }
+ 
+ /* Sets the correct height for the header menu bar items. This may need to be changed for different browsers and
+  * possible adjusted if items in the header are changed */
+ .alfresco-share .alfresco-header-Header .dijitReset.dijitInline.dijitMenuItemLabel.dijitMenuItem {
+    height: 22px;
+    margin: 0 8px;
+    padding-top: 4px;
+    color: #ffffff !important;
+ }
+ 
+ /* Sets the dark grey colour in the drop-down menus in header menus ONLY. */
+ .alfresco-share .alf-header-menu-bar.alf-menu-groups {
+    background-color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+    box-shadow: 0.33px 2px 8px rgba(0, 0, 0, 0.3);
+ }
+ 
+ /* Sets the dark grey colour in the menu groups in the header menu ONLY */
+ .alfresco-share .alf-header-menu-bar .dijitMenuTable {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+ }
+ 
+ /* Sets the menu group title background colour in the header menu ONLY */
+ .alfresco-share .alf-header-menu-bar .alf-menu-group.dijitMenu {
+    background-color: #ffffff !important;
+ }
+
+ 

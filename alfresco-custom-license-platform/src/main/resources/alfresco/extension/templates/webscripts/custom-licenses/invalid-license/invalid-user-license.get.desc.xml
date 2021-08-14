@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>USER LICENSE FOUND NOT VALID</shortname>
+    <description>Indicates that invalid user license has been found</description>
+    <url>/invalid-user-license</url>
+    <format default="html">extension</format>
+    <authentication>user</authentication>
+</webscript>

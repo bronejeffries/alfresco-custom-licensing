@@ -1,0 +1,10 @@
+.theme-company-logo{
+    background-image: url(../../images/logo.png) !important;
+}
+
+body.UNKNOWN {
+    background-color: #ffffff !important;
+    background-image: url(../../images/background.png) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

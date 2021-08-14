@@ -1,0 +1,9 @@
+<webscript>
+    <shortname>Tasks count</shortname>
+    <description>Number of tasks assigned to a user</description>
+    <url>/projectone/tasks/my/count</url>
+    <url>/projectone/tasks/my/count.json</url>
+    <format default="json">extension</format>
+    <authentication>user</authentication>
+    <transaction>required</transaction>
+</webscript>
