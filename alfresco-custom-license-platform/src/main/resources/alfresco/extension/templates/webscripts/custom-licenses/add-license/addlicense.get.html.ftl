@@ -50,25 +50,6 @@
                                 </div>
                             </div>
                         </div>
-                        <#--  <div class="form-row">
-                            <div class="name">Message</div>
-                            <div class="value">
-                                <div class="input-group">
-                                    <textarea class="textarea--style-6" name="message" placeholder="Message sent to the employer"></textarea>
-                                </div>
-                            </div>
-                        </div>  -->
-                        <#--  <div class="form-row">
-                            <div class="name">Upload CV</div>
-                            <div class="value">
-                                <div class="input-group js-input-file">
-                                    <input class="input-file" type="file" name="file_cv" id="file">
-                                    <label class="label--file" for="file">Choose file</label>
-                                    <span class="input-file__info">No file chosen</span>
-                                </div>
-                                <div class="label--desc">Upload your CV/Resume or any other relevant file. Max file size 50 MB</div>
-                            </div>
-                        </div>  -->
                         <div class="form-row">
                             <div class="name">License Type *</div>
                             <div class="value">
@@ -85,22 +66,6 @@
                                 </div>
                             </div>
                         </div>
-                        <#--  <div class="form-row">
-                            <div class="name">License Validity Span (days)</div>
-                            <div class="value">
-                                <div class="input-group">
-                                    <input class="input--style-6" readonly type="text" id="license_span" name="license_span" placeholder="License Validity Span">
-                                </div>
-                            </div>
-                        </div>  -->
-                        <#--  <div class="form-row">
-                            <div class="name">Activation Date</div>
-                            <div class="value">
-                                <div class="input-group">
-                                    <input class="input--style-6" readonly type="text" id="activation_date" name="activation_date" placeholder="Activation Date">
-                                </div>
-                            </div>
-                        </div>  -->
                         <div class="form-row">
                             <div class="name">Choose Users *</div>
                             <div class="value">

@@ -1,6 +1,7 @@
 <@markup id="css" >
    <#-- CSS Dependencies -->
    <@link href="${url.context}/res/components/guest/login.css" group="login"/>
+   <@link rel="stylesheet" type="text/css" href="${url.context}/res/login/customizations/components/head/resources.css" group="login" />
    <@link href="${url.context}/res/components/customtheme/css/login/customstyle.css" group="login"/>
 </@>
 
