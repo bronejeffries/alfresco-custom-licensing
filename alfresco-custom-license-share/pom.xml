@@ -102,6 +102,9 @@
                     <skip>true</skip>
                     <excludes>
                         <exclude>src/main/resources/META-INF/resources/components/customlicense/*</exclude>
+                        <exclude>src/main/resources/META-INF/resources/components/customtheme/*</exclude>
+                        <exclude>src/main/resources/META-INF/resources/components/projectone/*</exclude>
+                        <exclude>src/main/resources/META-INF/resources/login/*</exclude>
                     </excludes>
                 </configuration>
             </plugin>
